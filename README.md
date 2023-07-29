@@ -1,4 +1,4 @@
-# Lab2_NUnit_Test
+# Lab2: NUnit Test
 
 This is the `UnitTest1.cs` file for NUnit testing of the classes `Population`, `BankCharges`, and `ShippingCharges` in the `Lab1` namespace.
 
