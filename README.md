@@ -19,6 +19,6 @@ Please note that the expected values have been rounded to two decimal places to 
 **Note:** Make sure you have appropriate test data for each scenario, and adjust the expected values accordingly to match the expected results of the test methods.
 
 ### Screenshot
-|<img src="tests.PNG" alt="image" width="500" height="350">|
+|<img src="tests.PNG" alt="image" width="600" height="350">|
 |:--:|
 |Figure 1: Tests|
